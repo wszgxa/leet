@@ -1,0 +1,1 @@
+exports.testString = ['lalalssss', 'sadxzcsada', 'au']
