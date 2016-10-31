@@ -1,0 +1,1 @@
+exports.testString = ['12321', 'asdasdasxzx', 'ssxsssasas']
